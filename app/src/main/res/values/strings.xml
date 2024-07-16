@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">The Forgotten Yupi</string>
+    <string name="button_name">Log In</string>
+    <string name="label_name">The Forgotten Yupi</string>
+    <string name="password_hint">Password</string>
+    <string name="username_hint">Username</string>
+    <string name="wrong_result">Username and Password are not correct</string>
+    <string name="correct_result">Username and Password are correct</string>
+    <string name="login_error">Error</string>
+    <string name="login_success">Success</string>
+    <string name="default_image">default_image</string>
+    <string name="button_go_back">Go Back</string>
+</resources>
